@@ -9,5 +9,13 @@ carousels:
     - image: /assets/images/NASA Spending_Insta Cover Template.jpg
     - image: /assets/images/NASA Spending_Insta Page Chart Template.jpg
     - image: /assets/images/NASA Spending_Insta Page Text Template.jpg
+excerpts: "Congrats on a successful launch and dock at ISS! Do you support NASA and their mission to drive science, technology, aeronautics, and space exploration, to enhance knowledge, education, innovation, economic vitality, and stewardship of Earth?"
 ---
 
+Congrats on a successful launch and dock at ISS! Do you support NASA and their mission to drive science, technology, aeronautics, and space exploration, to enhance knowledge, education, innovation, economic vitality, and stewardship of Earth?
+
+Sources:
+https://www.nasa.gov/sites/default/files/atoms/files/fy_2021_budget_book_508.pdf
+https://www.usaspending.gov/#/explorer/agency
+
+#nasa #spacex #ksc #unitedstates #launchamerica #astronaut #dragon #crewdragon #launch #spacecraft #liftoff #analytics #businessintelligence #consultingservices #dashboard #data #dataanalytics #dataisbeautiful #dataliteracy #dataquality #datavisualization #dataviz #excel #powerbi #qlik #qliksense #qlikview #reporting #smallbusiness #tableau
