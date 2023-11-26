@@ -4,6 +4,7 @@ title: "Data Analytics in Practice"
 date: "2020-03-15"
 categories: [Analytics]
 image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+excerpt: "Data analytics can revolutionize small businesses, offering insights in financial planning, cost reduction, and sales performance. Streamline processes and make informed decisions with a three-step approach: Discovery & Strategy, Conversion, and Enhancement."
 ---
 
 ## Three common applications of data analytics for small businesses
@@ -14,7 +15,7 @@ This post aims to tackle three important questions:
 - How do small businesses realistically use data analytics to improve their operations?
 - What are some real life use cases of data analytics in practice?
 
-Our goal is to demystify data analytics and make them an approachable tool for any small business to use. We’ll do this by breaking down three common applications of data analytics that can be used on a daily basis to streamline processes, gain greater insight into operations, and more accurately predict future outcomes. We’ll also discuss how Great Lakes Analytics can help implement your data solution seamlessly so you can hit the ground running.
+Our goal is to demystify data analytics and make them an approachable tool for any small business to use. We’ll do this by breaking down three common applications of data analytics that can be used on a daily basis to streamline processes, gain greater insight into operations, and more accurately predict future outcomes.
 
 ## How Data Analytics Can Make a Difference
 

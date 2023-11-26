@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "4 Types of Data Analytics"
-date: "2020-08-01 10:49:17 -0500"
+date: "2020-08-01"
 categories: [Analytics]
 image: https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+excerpt: Data analytics is crucial for business success, offering insights through descriptive analytics (answering "what happened"), diagnostic analytics (explaining "why" events occurred), predictive analytics (forecasting "what is likely to happen"), and prescriptive analytics (suggesting "what should I do"). Understanding the distinct roles of these analytics types empowers businesses to make informed decisions and optimize operations.
 ---
 
 ## Understanding the types of data analytics and the questions they can help you answer as a small business

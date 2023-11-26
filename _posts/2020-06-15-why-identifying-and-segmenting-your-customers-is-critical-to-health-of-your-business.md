@@ -4,6 +4,7 @@ title: "Why Identifying and Segmenting Your Customers is Critical to Health of Y
 date: "2020-06-15"
 categories: [Analytics]
 image: https://images.unsplash.com/photo-1553484771-cc0d9b8c2b33?q=80&w=1301&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+excerpt: "Segmenting your customer base is crucial for business success, emphasizing the importance of the top 20% contributing significantly to revenue. Factors like actual revenue, referrals, feedback, and consistency help identify this group. Conversely, addressing the bottom 20%, including hand-holders, flakes, swindlers, and penny-pinchers, prevents resource drain. Regularly monitoring and segmenting customer data empowers informed decision-making, ensuring efficient allocation of resources."
 ---
 
 Any small business owner knows that not all customers are created equal. Some yield much higher returns than others with less effort, some are high maintenance, and some are simply nicer and more appreciative of your services than others.

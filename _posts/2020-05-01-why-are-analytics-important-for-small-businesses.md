@@ -4,6 +4,7 @@ title: "Why Are Analytics Important for Small Businesses?"
 date: "2020-05-01"
 categories: [Analytics]
 image: https://images.unsplash.com/photo-1449247666642-264389f5f5b1?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+excerpt: "Analytics are crucial for small businesses, streamlining decision-making through standardized data that reduces manual work and errors. By combining insights from various sources, businesses can set meaningful goals, improve advertising ROI, and boost revenue with precision. Accessible analytics, automated reporting, and user-friendly dashboards are key for optimizing business operations in real-time."
 ---
 
 ## How data analytics help reduce wasteful spending, measure success, and optimize business operations
@@ -12,11 +13,11 @@ Many businesses big and small dread the word ‘analytics’. They get a bad rap
 
 But not including analytics in your business strategy isn’t an option either. How can you set goals, make decisions, and measure success without them? It’s time to stop thinking of analytics as a necessary evil and start thinking about them as tools for growth.
 
-To do so, it’s important to understand how analytics can be a game changer for small businesses and how solutions like [Great Lakes Analytics](https://greatlakesanalyticsllc.com/) can provide companies with a standardized and automated data experience.
+To do so, it’s important to understand how analytics can be a game changer for small businesses and provide companies with a standardized and automated data experience.
 
 ## Standardized data = less manual work and fewer errors
 
-Your analytics will only be as good as the data provided, which is why [clean and standardized data](https://greatlakesanalyticsllc.com/blog/how-to-measure-the-effectiveness-of-your-reporting/) is so important. Small businesses spend hours gathering data from multiple sources, cleaning up errors, and standardizing metrics. This amount of manual labor is what tends to discourage businesses from keeping up with their analytics regularly.
+Your analytics will only be as good as the data provided, which is why clean and standardized data is so important. Small businesses spend hours gathering data from multiple sources, cleaning up errors, and standardizing metrics. This amount of manual labor is what tends to discourage businesses from keeping up with their analytics regularly.
 
 However, standardization is critical because even the [best analytics software can’t correct inaccurate data](https://winpure.com/blog/business-benefits-data-standardization/). This approach gives you reliable analytics you can use to make better decisions. Plus, the time previously spent on cleaning and correcting data can now be directed to other projects.
 
@@ -53,8 +54,4 @@ There is an endless list of decisions small businesses make everyday that could 
 
 ## Accessible analytics for small businesses
 
-It’s not hard to understand how fundamentally important analytics are for any small business operation. The trouble for most companies comes at the execution stage. You have data through the various platforms and applications you use, but only certain people have access to it, it’s in different formats, and it’s difficult to visualize how data from one program interacts with data from another.
-
-This is where a data solution like Great Lakes Analytics comes into play. Put simply, we automate your reporting and bring it all into a user-friendly dashboard so you have real-time access to the information you need to run your business.
-
-We meet with your team personally to understand the processes and systems you currently have in place as well as the goals you have for your data. We then build systems that capture and cleanse your data for ideal results before building an ecosystem of interactive dashboards for you to visualize and act fast.
+It’s not hard to understand how fundamentally important analytics are for any small business operation. The trouble for most companies comes at the execution stage. You have data through the various platforms and applications you use, but only certain people have access to it, it’s in different formats, and it’s difficult to visualize how data from one program interacts with data from another. Put simply, you need to automate your reporting and bring it all into a user-friendly dashboard so you have real-time access to the information you need to run your business.

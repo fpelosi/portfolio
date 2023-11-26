@@ -4,6 +4,7 @@ title: "Building a Dashboard Using the DAR Methodology"
 date: "2020-06-01"
 categories: [Analytics]
 image: https://images.unsplash.com/photo-1542744173-05336fcc7ad4?q=80&w=1402&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+excerpt: "The DAR Methodology (Dashboard, Analysis, Reporting) is a user-focused approach to crafting data analytics applications for effective storytelling. Beginning with a Dashboard for a quick overview of key analytics, it progresses to Analysis pages for deeper exploration, and concludes with Reporting pages offering granular data and extensive filtering options. This creative and flexible method guides users logically through their data journey, providing a dynamic and accessible framework to make informed decisions. The DAR approach organizes information into a user-friendly funnel, facilitating a compelling narrative within the realm of data analytics."
 ---
 
 ## Tell a data story with the right application design
@@ -41,7 +42,3 @@ They are filled with tabular data and lots of filtering options so users can rea
 The DAR method organizes information into a funnel so users start with the most general data and work their way down in detail. It’s important to note, however, that applications using the DAR method are not linear. Users can hop around to various pages as they need.
 
 This methodology is designed to help people make decisions by guiding them through the process from big to small, helping them visualize key data analytics, and how they relate to one another. It’s meant to manage the delivery and flow of information to tell a story.
-
-At Great Lakes Analytics, we take great pride in helping you automate and design your reporting so you and your employees can focus on running your business. We start by working with you and your personnel to understand your current reporting efforts and your needs to build an analytics strategy that measures what matters.
-
-Then, we build systems to capture, cleanse, and store the data to build data models for analytics and reporting. And finally, we transform your analytics into an ecosystem of interactive dashboards and reports for everyday use using the DAR methodology. 

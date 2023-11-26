@@ -4,6 +4,7 @@ title: "What is the DIKW Pyramid?"
 date: "2020-07-15"
 categories: [Analytics]
 image: https://images.unsplash.com/photo-1600520611035-84157ad4084d?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+excerpt: "Data transforms into a powerful storytelling tool through the DIKW (Data, Information, Knowledge, Wisdom) pyramid, offering a structured progression from raw facts to actionable wisdom. This framework guides businesses in leveraging data for confident and strategic decision-making. Embracing data-driven practices empowers small businesses to navigate the complexities of analytics, fostering a foundation for success."
 ---
 
 ## How data improves decision-making

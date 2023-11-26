@@ -4,6 +4,7 @@ title: "What is data literacy?"
 date: "2020-07-01"
 categories: [Analytics]
 image: "/assets/images/data_literacy.jpg"
+excerpt: "Data literacy is critical for businesses, yet a 50% skill gap persists. Gartner defines it as the ability to effectively handle data, but 75% of decision-makers lack confidence in this skill. Bridging the gap involves assessing the current state, designating internal data experts, implementing tailored training programs, selecting user-friendly tools, fostering a data-centric culture, and ensuring continuous upskilling efforts. Overcoming this hurdle enables businesses to fully leverage available data for informed decision-making and improved efficiency."
 ---
 
 ## Why data literacy is important and how can organizations overcome a gap in understanding information

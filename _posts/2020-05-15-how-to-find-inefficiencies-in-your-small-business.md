@@ -4,6 +4,7 @@ title: "How to Find Inefficiencies in your Small Business"
 date: "2020-05-15"
 categories: [Analytics]
 image: https://images.unsplash.com/photo-1573612664822-d7d347da7b80?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+excerpt: "Efficiency is crucial for small businesses, and the Pareto Principle suggests focusing on the vital 20% driving 80% of results. Regular team discussions, customer feedback, and insights from vendors help identify inefficiencies. Metrics like task completion rates, labor-to-output ratios, and sales outreach effectiveness provide measurable indicators. Establishing key performance indicators (KPIs) ensures ongoing efficiency monitoring, promoting continuous improvement for small businesses seeking optimal productivity."
 ---
 
 ## Identifying opportunities to optimize your business processes
@@ -52,7 +53,3 @@ The most obvious metric is [how much work your staff is producing](https://www.i
 Manufacturing businesses often use a cost-benefit or input-output ratio to evaluate how efficiently people are working. Compare the total amount of time in labor hours to the amount of goods produced. You can do this on an individual or group basis depending on your size. 
 
 To establish sales efficiency metrics, consider comparing the number of sales outreach efforts to the number of results (quotes created, invoices sent, orders confirmed). Customer service efficiency can be measured with surveys, average response time, and average resolution length.
-
-## Automate your efficiency data
-
-Great Lakes Analytics can help you identify the right KPIs and metrics to measure efficiency in your organization. We review your existing processes and the key information you need to operate, and then we build systems to capture, cleanse, and store that data for easy access.
