@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Dashboard Using the DAR Methodology"
 date: "2020-06-01"
-categories: [Analytics]
+categories: [analytics]
 image: https://images.unsplash.com/photo-1542744173-05336fcc7ad4?q=80&w=1402&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "The DAR Methodology (Dashboard, Analysis, Reporting) is a user-focused approach to crafting data analytics applications for effective storytelling. Beginning with a Dashboard for a quick overview of key analytics, it progresses to Analysis pages for deeper exploration, and concludes with Reporting pages offering granular data and extensive filtering options. This creative and flexible method guides users logically through their data journey, providing a dynamic and accessible framework to make informed decisions. The DAR approach organizes information into a user-friendly funnel, facilitating a compelling narrative within the realm of data analytics."
 ---

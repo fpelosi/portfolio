@@ -2,7 +2,7 @@
 layout: post
 title: "Top 5 Best Practices for Getting Started with Small Business Analytics"
 date: "2020-04-15"
-categories: [Analytics]
+categories: [analytics]
 image: https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Kickstart your small business analytics journey with strategic planning. Appoint an internal sponsor to own and implement your data strategy, ensuring alignment with business goals. Streamline and update tools by assessing your current data situation. Use analytics to tell a comprehensive story and break down departmental silos. Prioritize better and faster decision-making by designing your analytics tool around key questions. The right analytics tool automates reporting, empowering your team to focus on business growth."
 ---

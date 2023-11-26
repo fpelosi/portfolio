@@ -2,7 +2,7 @@
 layout: post
 title: "How to Measure the Effectiveness of your Reporting"
 date: "2020-03-01"
-categories: [Analytics]
+categories: [analytics]
 tags:
  - test1
  - test2
