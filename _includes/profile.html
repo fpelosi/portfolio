@@ -20,7 +20,7 @@
 
 .header-text {
     position: absolute;
-    top: 0%;
+    top: 20%;
     right: 0;
     padding: 20px 30px 10px 0;
     color: #fff; /* Text color */
@@ -29,6 +29,18 @@
     width: 45%; /* Same as the width of the photo-container */
 }
 
+@include media-query($on-palm) {
+    .header-text {
+        position: absolute;
+        top: 0%;
+        right: 0;
+        padding: 20px 30px 10px 0;
+        color: #fff; /* Text color */
+        text-align: right;
+        background: #4B5842; /* Background color for the header text */
+        width: 45%; /* Same as the width of the photo-container */
+    }
+}
 </style>
 
 
