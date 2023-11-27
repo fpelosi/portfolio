@@ -19,12 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Frank Pelosi
-email: your-email@example.com
+email: hello@frankpelosi.com
 description: "I'm a data professional, managing, analyzing, interpreting, and extracting insights from data—the lens through which I view the world. Professionally, I've worked in education, healthcare, utilities, and banking. Personally, I enjoy traveling and personal finance, especially when able to leverage data to optimize both."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+linkedin_username:  frankpelosi
 
 # Build settings
 # theme: minima
