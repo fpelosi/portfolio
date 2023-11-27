@@ -5,7 +5,7 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: calc($spacing-unit * 1.865);
-
+  z-index: 1000;
   // Positioning context for the mobile navigation icon
   position: relative;
 }
@@ -30,6 +30,7 @@
 
   .nav-trigger {
       display: none;
+      z-index: 1001;
   }
 
   .menu-icon {
