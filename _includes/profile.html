@@ -1,0 +1,41 @@
+<style>
+.photo-container {
+    position: relative;
+    width: 100%; /* Adjust the width as needed */
+    height: 0;
+    padding-top: 56.25%; /* 16:9 aspect ratio */
+    overflow: hidden;
+}
+
+.photo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('/assets/images/profile.png'); /* Replace 'your-photo.jpg' with the path to your photo */
+    background-size: cover;
+    background-position: center;
+}
+
+.header-text {
+    position: absolute;
+    top: 20%;
+    right: 0;
+    padding: 20px 30px 15px 10px;
+    color: #fff; /* Text color */
+    text-align: right;
+    background: #4B5842; /* Background color for the header text */
+    width: 45%; /* Same as the width of the photo-container */
+}
+
+</style>
+
+
+<div class="photo-container">
+<div class="photo"></div>
+<div class="header-text">
+    <h1>:wave: Hi, I'm Frank</h1>
+    <h2>I'm a data professional.</h2>
+</div>
+</div>
