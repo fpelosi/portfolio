@@ -20,10 +20,7 @@
 
 title: Frank Pelosi
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "I'm a data professional, managing, analyzing, interpreting, and extracting insights from data—the lens through which I view the world. Professionally, I've worked in education, healthcare, utilities, and banking. Personally, I enjoy traveling and personal finance, especially when able to leverage data to optimize both."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -51,12 +48,12 @@ jekyll-archives:
     tag: '/tag/:name/'
     category: '/category/:name/'
 
-paginate: 5
-paginate_path: "/page/:num"
+paginate: 10
+paginate_path: "/blog/page:num/"
 
 header_pages:
-  - categories.md
   - resume.md
+  - blog/index.html
 
 show_excerpts: True
 
@@ -80,4 +77,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - LICENSE.txt
-  - README.txt
+  - README.md
