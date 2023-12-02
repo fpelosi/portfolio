@@ -2,10 +2,7 @@
 layout: post
 title: "How to Measure the Effectiveness of your Reporting"
 date: "2020-03-01"
-categories: [analytics]
-tags:
- - test1
- - test2
+categories: [analytics, topic1, topic2, topic2, topic4, topic5]
 image: https://images.unsplash.com/photo-1600165642369-f609e6a2daa2?q=80&w=1496&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Effective reporting is your business compass, guiding decisions with strategic insights. Choose reports aligned with goals, fueled by clean data. Streamline creation and share across departments. The real measure is how well data integrates into decisions. Before diving into reports, ensure your business is ready to navigate with analytics in your strategy."
 ---

@@ -48,11 +48,10 @@ jekyll-archives:
     category: '/category/:name/'
 
 paginate: 10
-paginate_path: "/blog/page:num/"
+paginate_path: "/posts/page:num/"
 
 header_pages:
-  - resume.md
-  - blog/index.html
+  - posts/index.html
 
 show_excerpts: True
 

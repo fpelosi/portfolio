@@ -14,8 +14,11 @@ layout: default
   {% when 'day' %}
     <h1>Posts from {{ page.date | date: "%B %d, %Y" }}</h1>
   
-  {% when 'tag', 'category' %}
+  {% when 'tag' %}
   <h1>Posts from {{ page.type }} '{{ page.title }}'</h1>
+
+  {% when 'category' %}
+  <h1>Posts from topic '{{ page.title }}'</h1>
 
 {% endcase %}
 

@@ -2,6 +2,7 @@
 layout: default
 ---
 <div style="padding-bottom: 20px;">
+    Topics:
     {% for category in site.categories %}
     <a href="{{site.baseurl}}/category/{{ category[0] }}">{{ category[0] }}</a>
     {% unless forloop.last %}&nbsp;{% endunless %}
