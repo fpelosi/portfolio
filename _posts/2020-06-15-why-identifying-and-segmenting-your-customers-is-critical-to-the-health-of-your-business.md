@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Identifying and Segmenting Your Customers is Critical to Health of Your Business"
+title: "Why Identifying and Segmenting Your Customers is Critical to the Health of Your Business"
 date: "2020-06-15"
 categories: [analytics]
 image: https://images.unsplash.com/photo-1553484771-cc0d9b8c2b33?q=80&w=1301&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
