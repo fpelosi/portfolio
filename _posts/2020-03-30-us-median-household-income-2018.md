@@ -2,7 +2,7 @@
 layout: post
 title: "US Median Household Income in 2018"
 date: "2020-03-30"
-categories: [data-viz, analytics]
+categories: [data-viz, analytics, personal-finance, government]
 carousels:
   - images: 
     - image: /assets/images/20200330_USMedianHouseholdIncome2018_Cover.png

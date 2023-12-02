@@ -2,7 +2,7 @@
 layout: post
 title: "Why Are Analytics Important for Small Businesses?"
 date: "2020-05-01"
-categories: [analytics]
+categories: [analytics, small-business]
 image: https://images.unsplash.com/photo-1449247666642-264389f5f5b1?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Analytics are crucial for small businesses, streamlining decision-making through standardized data that reduces manual work and errors. By combining insights from various sources, businesses can set meaningful goals, improve advertising ROI, and boost revenue with precision. Accessible analytics, automated reporting, and user-friendly dashboards are key for optimizing business operations in real-time."
 ---

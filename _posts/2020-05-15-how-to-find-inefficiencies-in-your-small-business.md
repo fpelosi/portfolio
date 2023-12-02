@@ -2,7 +2,7 @@
 layout: post
 title: "How to Find Inefficiencies in your Small Business"
 date: "2020-05-15"
-categories: [analytics]
+categories: [analytics, small-business]
 image: https://images.unsplash.com/photo-1573612664822-d7d347da7b80?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Efficiency is crucial for small businesses, and the Pareto Principle suggests focusing on the vital 20% driving 80% of results. Regular team discussions, customer feedback, and insights from vendors help identify inefficiencies. Metrics like task completion rates, labor-to-output ratios, and sales outreach effectiveness provide measurable indicators. Establishing key performance indicators (KPIs) ensures ongoing efficiency monitoring, promoting continuous improvement for small businesses seeking optimal productivity."
 ---
