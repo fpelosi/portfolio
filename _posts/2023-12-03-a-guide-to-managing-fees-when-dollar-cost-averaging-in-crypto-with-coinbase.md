@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maximizing Returns: A Guide to Dollar-Cost Averaging in Crypto with Coinbase"
+title: "A Guide to Managing Fees when Dollar-Cost Averaging in Crypto with Coinbase"
 date: "2023-12-03"
 categories: [personal-finance]
 image: https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
