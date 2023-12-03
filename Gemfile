@@ -19,7 +19,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-seo-tag", "~> 2.6"
   gem "jekyll-archives"
-  gem "jekyll-sitemap"
+  # gem "jekyll-sitemap"
   gem "jekyll-paginate"
   gem "jemoji"
 end
