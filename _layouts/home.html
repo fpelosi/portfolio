@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   <div style="padding-bottom: 20px;">
-    Things I care about:
+    Topics that interest me:
     {% assign sorted_categories = site.categories | sort %}
     {% for category in sorted_categories %}
     <a href="{{site.baseurl}}/category/{{ category[0] }}">{{ category[0] }}</a>{% unless forloop.last %}, {% endunless %}

@@ -5,18 +5,13 @@ date: "2023-12-03"
 categories: [personal-finance]
 image: https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "I've been investing in cryptocurrencies for many years now, and while I see opportunity, the volatility of the markets and trying to time when to buy was always discouraging to me. One strategy that offers a steady approach is dollar-cost averaging. If you're navigating this journey through platforms like Coinbase, understanding the fee structure is paramount, especially when employing the dollar-cost averaging strategy that involves frequent trades."
-carousels:
-  - images: 
-    - image: /assets/images/LINK_Trade_Coinbase_App_10_edit.png
-    - image: /assets/images/LINK_Trade_Coinbase_App_100_edit.png
-    - image: /assets/images/LINK_Trade_Coinbase_App_250_edit.png
 ---
 
 I've been investing in cryptocurrencies for many years now, and while I see opportunity, the volatility of the markets and trying to time when to buy was always discouraging to me. One strategy that offers a steady approach is dollar-cost averaging. If you're navigating this journey through platforms like Coinbase, understanding the fee structure is paramount, especially when employing the dollar-cost averaging strategy that involves frequent trades.
 
 ## Comparing Costs: Coinbase App vs. Coinbase Advanced Trade API
 
-Now, let's explore how costs may differ when executing the same trade in the Coinbase app compared to using Coinbase Advanced Trade API. Let's break down the fees using a concrete example. Imagine you're committed to a $10, $100, or $250 weekly or monthly investment in LINK/USD through dollar-cost averaging with Coinbase. Here's a detailed look at how fees might impact your weekly investment.
+Now, let's explore how costs may differ when executing the same trade in the Coinbase app compared to using Coinbase Advanced Trade API. Let's break down the fees using a concrete example. Imagine you're committed to a $10, $100, or $250 weekly or monthly investment in LINK/USD through dollar-cost averaging with Coinbase. Here's a detailed look at how fees might impact your weekly or monthly investment.
 
 ### Coinbase App
 When buying directly on the Coinbase app, the percentage fee varies based on the dollar amount of the trade. Let's look at some real examples below.
@@ -28,7 +23,7 @@ When buying directly on the Coinbase app, the percentage fee varies based on the
 Here is a [link](https://help.coinbase.com/en/coinbase/trading-and-funding/pricing-and-fees/fees){:target="_blank"} to the Coinbase app fee documentation. It's rather vague.
 
 ### Coinbase Advanced Trade API
-Coinbase Advanced, previously known as Coinbase Pro, allows users to make trades using a [Maker/Taker](){:target="_blank"} fee structure. Unless you're trading huge volumes, you'll likely fall into one of these three fee brackets.
+Coinbase Advanced, previously known as Coinbase Pro, allows users to make trades using a [Maker/Taker](/understanding-maker-taker-when-using-coinbase-advanced-trade){:target="_blank"} fee structure. Unless you're trading huge volumes, you'll likely fall into one of these three fee brackets.
 
 | Level | Trading Amount | Maker Fees | Taker Fees |
 | --- | --- | --- | --- |
