@@ -20,7 +20,7 @@ The eagerness to find solutions may stem from the tendency organizations have to
 A co-worker and I often talk about "speed," and she always reminds me "that if you want work done quickly, then it will be poorly done or very expensive." In most cases, the outcome is poorly done work. Focusing on "speed to market," how can we add business value right now in the discovery process leads to solutions that may not be sustainably built for the future needs of the organization. In turn, you will have neglected in-depth comprehension in the pursuit of efficiency. This is where it becomes critical to understand what the future need is.
 
 ## A Real World Example
-I have a customer looking to build an enterprise reporting environment. I recently explained to the product owner that we need to understand the complexity of their reporting needs in the short and long term.
+I have a customer looking to build an enterprise reporting environment. I recently mentioned  to the product owner that we need to understand the complexity of their reporting needs in the short and long term.
 
 In discovery, a flat file solution was proposed. This solution will provide faster speed to market for simple reporting needs but will have limited scalability and support smaller datasets. On the other hand, a relational database will have a longer speed to market but will reduce redundancy, provide support for more complex reporting, is scalable, and structured.
 
