@@ -2,7 +2,7 @@
 layout: post
 title: "Data Analytics in Practice"
 date: "2020-03-15"
-categories: [analytics, small-business]
+categories: [analytics, business]
 image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Data analytics can revolutionize small businesses, offering insights in financial planning, cost reduction, and sales performance. Streamline processes and make informed decisions with a three-step approach: Discovery & Strategy, Conversion, and Enhancement."
 ---

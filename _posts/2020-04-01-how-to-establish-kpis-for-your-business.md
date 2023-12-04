@@ -2,7 +2,7 @@
 layout: post
 title: "How to Establish KPIs for Your Business"
 date: "2020-04-01"
-categories: [analytics, small-business]
+categories: [analytics, business]
 image: https://images.unsplash.com/photo-1581574919402-5b7d733224d6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Establishing meaningful business goals requires careful consideration of Key Performance Indicators (KPIs), which serve as markers of progress. KPIs, ranging from Input to Leading indicators, should be Specific, Measurable, Attainable, Results-oriented, and Time-based (SMART). Efficient reporting is crucial for KPI effectiveness, emphasizing streamlined, automated tools to avoid manual data compilation and ensure optimal business performance evaluation."
 ---
