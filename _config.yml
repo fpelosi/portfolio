@@ -36,7 +36,7 @@ plugins:
   - jemoji
 
 url: "https://fpelosi.github.io/"
-baseurl: "/portfolio"
+baseurl: "/portfolio/"
 
 permalink: /:title/
 
