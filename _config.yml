@@ -35,6 +35,8 @@ plugins:
   - jekyll-paginate
   - jemoji
 
+baseurl: "/portfolio"
+
 permalink: /:title/
 
 jekyll-archives:
