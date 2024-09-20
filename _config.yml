@@ -35,6 +35,7 @@ plugins:
   - jekyll-paginate
   - jemoji
 
+url: "https://fpelosi.github.io/"
 baseurl: "/portfolio"
 
 permalink: /:title/
