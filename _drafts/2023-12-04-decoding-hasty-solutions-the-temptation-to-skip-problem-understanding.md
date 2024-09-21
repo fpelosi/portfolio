@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Decoding Hasty Solutions: The Temptation to Skip Problem Understanding"
-date: "2023-12-04"
-categories: [analytics, business]
+date: 2023-12-04
+categories:
+  - analytics
+  - business
 image: https://images.unsplash.com/photo-1512758017271-d7b84c2113f1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-excerpt: "I often find myself in a position where I feel the need for more information to solve a problem, and others have already moved on to finding solutions. I sense that people are quick to jump to solutions, but it could just be the analyst in me preferring to delve deeper into the problem. I frequently participate in discovery sessions intended to understand the problem, and I notice that conversations tend to gravitate towards technical solutions and how we can get things done quickly. On the drive home from work, I was trying to understand why people seem to value discussions around solutions more than a deep understanding of the problem."
+excerpt: I often find myself in a position where I feel the need for more information to solve a problem, and others have already moved on to finding solutions. I sense that people are quick to jump to solutions, but it could just be the analyst in me preferring to delve deeper into the problem. I frequently participate in discovery sessions intended to understand the problem, and I notice that conversations tend to gravitate towards technical solutions and how we can get things done quickly. On the drive home from work, I was trying to understand why people seem to value discussions around solutions more than a deep understanding of the problem.
 ---
-
 I often find myself in a position where I feel the need for more information to solve a problem, and others have already moved on to finding solutions. I sense that people are quick to jump to solutions, but it could just be the analyst in me preferring to delve deeper into the problem.
 
 I frequently participate in discovery sessions intended to understand the problem, and I notice that conversations tend to gravitate towards technical solutions and how we can get things done quickly. On the drive home from work, I was trying to understand why people seem to value discussions around solutions more than a deep understanding of the problem.
