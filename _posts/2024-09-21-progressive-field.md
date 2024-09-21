@@ -4,7 +4,6 @@ title: Progressive Field
 date: 2024-09-21
 categories:
   - travel
-image: 
+image: "[[progressive-field.jpeg]]"
 excerpt:
 ---
-[[progressive-field.jpeg]]
