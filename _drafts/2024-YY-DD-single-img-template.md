@@ -3,6 +3,6 @@ layout: post
 title: 
 date: ""
 categories: 
-image: 
+image: /assets/images/
 excerpt:
 ---
