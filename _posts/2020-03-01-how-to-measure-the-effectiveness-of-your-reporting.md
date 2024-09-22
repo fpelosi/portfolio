@@ -47,4 +47,4 @@ It’s important to recognize how intertwined departments are. Product sales dat
 
 For reporting to be most effective, it needs to be a vital part of your business operations. If leadership and department heads don’t plan on integrating report data into future decisions, then the time spent gathering and organizing that information is wasted.
 
-Before you invest the effort, make sure you have a place for analytics in your business strategy. Are you flexible and open-minded enough to accommodate changes based on what the data tells you? Reporting is only worth the time if you can ensure that it's incorporated into present and future business decisions.
+Before you invest the effort, make sure you have a place for analytics in your business strategy. Are you flexible and open-minded enough to accommodate changes based on what the data tells you? Reporting is only worth the time if you can ensure that it's incorporated into present and future business decisions!
