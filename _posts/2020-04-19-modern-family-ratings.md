@@ -3,6 +3,7 @@ layout: post
 title: "Modern Family Ratings"
 date: "2020-04-19"
 categories: [data-viz, analytics]
+image: /assets/images/20200419_ModernFamilyRatings_Cover.png
 carousels:
   - images: 
     - image: /assets/images/20200419_ModernFamilyRatings_Cover.png

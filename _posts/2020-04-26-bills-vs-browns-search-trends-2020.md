@@ -3,6 +3,7 @@ layout: post
 title: "Buffalo Bills vs. Cleveland Browns Search Trends in 2020"
 date: "2020-04-26"
 categories: [data-viz, analytics]
+image: /assets/images/20200426_BillsVsBrowns_Cover.png
 carousels:
   - images: 
     - image: /assets/images/20200426_BillsVsBrowns_Cover.png

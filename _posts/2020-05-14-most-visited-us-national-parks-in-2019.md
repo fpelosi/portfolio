@@ -3,6 +3,7 @@ layout: post
 title: "Most Visited US National Parks In 2019"
 date: "2020-05-14"
 categories: [data-viz, analytics, travel]
+image: /assets/images/20200514_MostVisitedUSNationalParksIn2019_Cover.png
 carousels:
   - images: 
     - image: /assets/images/20200514_MostVisitedUSNationalParksIn2019_Cover.png

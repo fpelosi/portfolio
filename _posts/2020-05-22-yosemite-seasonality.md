@@ -3,6 +3,7 @@ layout: post
 title: "Yosemite Seasonality"
 date: "2020-05-22"
 categories: [data-viz, analytics, travel]
+image: /assets/images/20200522_YosemiteSeasonality_Cover.png
 carousels:
   - images: 
     - image: /assets/images/20200522_YosemiteSeasonality_Cover.png

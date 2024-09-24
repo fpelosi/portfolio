@@ -3,6 +3,8 @@
 {% assign number = include.number | minus: 1 %}
 <div class="carousel__holder">
     <div id="carousel{{ number }}" class="carousel">
+        {% assign images = page.carousels[number].images %}
+        {% assign image_count = images | size %}
         {% for item in page.carousels[number].images %}
           <input class="carousel__activator" type="radio" name="carousel{{ number }}" id="{{ number }}{{ letters[forloop.index0] }}" {% if forloop.first %}checked="checked"{% endif %} />
         {% endfor %}
@@ -19,10 +21,12 @@
             {% assign previndex = forloop.index0 | minus: 1 %}
           {% endif %}
           {% assign prevletter = letters[previndex] %}
-          <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="{{ number }}{{ prevletter }}"></label>
-              <label class="carousel__control carousel__control--forward" for="{{ number }}{{ nextletter }}"></label>
-          </div>
+          {% if image_count > 1 %}
+            <div class="carousel__controls">
+                <label class="carousel__control carousel__control--backward" for="{{ number }}{{ prevletter }}"></label>
+                <label class="carousel__control carousel__control--forward" for="{{ number }}{{ nextletter }}"></label>
+            </div>
+          {% endif %}
         {% endfor %}
         <div class="carousel__track">
           <ul>
@@ -31,11 +35,13 @@
             {% endfor %}
           </ul>
         </div>
-        <div class="carousel__indicators">
-            {% for item in page.carousels[number].images %}
-              <label class="carousel__indicator" for="{{ number }}{{ letters[forloop.index0] }}"></label>
-            {% endfor %}
-        </div>
+        {% if image_count > 1 %}
+          <div class="carousel__indicators">
+              {% for item in page.carousels[number].images %}
+                <label class="carousel__indicator" for="{{ number }}{{ letters[forloop.index0] }}"></label>
+              {% endfor %}
+          </div>
+        {% endif %}
     </div>
 </div>
 

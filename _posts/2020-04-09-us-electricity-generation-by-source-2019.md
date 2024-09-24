@@ -3,6 +3,7 @@ layout: post
 title: "US Electricity Generation by Source in 2019"
 date: "2020-04-09"
 categories: [data-viz, analytics, government]
+image: /assets/images/20200409_USElectricityGenerationBySource_Cover.png
 carousels:
   - images: 
     - image: /assets/images/20200409_USElectricityGenerationBySource_Cover.png

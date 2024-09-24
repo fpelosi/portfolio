@@ -4,7 +4,7 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    {% if page.categories contains 'data-viz' %}
+    {% if page.categories contains 'data-viz' or page.categories contains 'photos' %}
       {% include carousel.html height="100" unit="%" %}
     {% else %}
       <img src="{{ page.image }}" alt="" class="featured-image-post">

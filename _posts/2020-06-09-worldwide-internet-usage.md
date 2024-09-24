@@ -3,6 +3,7 @@ layout: post
 title: "Worldwide Internet Usage in 2019"
 date: "2020-06-09"
 categories: [data-viz, analytics]
+image: /assets/images/20200609_InternetUsage_Cover.png
 carousels:
   - images: 
     - image: /assets/images/20200609_InternetUsage_Cover.png
