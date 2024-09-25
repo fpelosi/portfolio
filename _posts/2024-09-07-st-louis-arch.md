@@ -11,4 +11,4 @@ carousels:
       - image: /assets/images/st-louis-arch.jpeg
 excerpt: 📷 Tallest monument in the U.S.
 ---
-📷 Tallest monument in the U.S.
+📷 Tallest monument in the U.S. 
