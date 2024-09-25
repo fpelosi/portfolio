@@ -12,7 +12,7 @@ I often find myself in a position where I feel the need for more information to 
 
 I frequently participate in discovery sessions intended to understand the problem, and I notice that conversations tend to gravitate towards technical solutions and how we can get things done quickly. People seem to value discussions around solutions more than a deep understanding of the problem.
 
-# The Temptation to Solutions
+# The Temptation to Solution
 Earlier in my career, I hesitated to speak up in meetings. Initially, I felt that if I asked questions, people would assume I didn't understand. Now, I tend to ask a lot of questions even when I'm confident I already know the answer. I do this because it helps me align my expectations with those I’m speaking to without forcing my assumptions on them.
 
 Having experienced both perspectives, it's reasonable to think that people jump to solutions to show they understand the problem, are actively contributing, and are adding value to the conversation. However, it's important to balance eagerness with a deep understanding of the problems at hand.
