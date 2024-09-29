@@ -3,7 +3,7 @@ layout: post
 title: Summer Blooms
 date: 2024-09-24
 categories:
-  - garden
+  - gardening
   - photos
 image: /assets/images/lavender.jpeg
 carousels:
