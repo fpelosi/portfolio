@@ -50,6 +50,7 @@ The [College Scorecard](https://collegescorecard.ed.gov/) is a great resource pu
 
 Seeing as I live in New York, let's use the University at Buffalo, the largest State University of New York, as an example. 
 
+https://www.nerdwallet.com/article/loans/student-loans/student-loan-calculator
 
 Studies on Degree Earnings**: Cite statistics and studies showing the salary differentials based on degree type.
 
@@ -74,7 +75,7 @@ Some examples of what financing would look like below.
 - **Partial Financing**: Students may take out smaller loans to supplement scholarships, personal contributions, or part-time work, with the loan amount based on projected salary.
 - **No Financing (cash, grants, scholarships)**: Those who can afford to pay outright (or who earn scholarships) don't rely on loans. 
 # A Socio-Economic Disadvantage
-There is a clear advantage to those who come from wealthy backgrounds being able to finance their own tuition. They have the luxury of choosing any degree and attending any institution regardless of it's worth in the marketplace. While an individual without the means to pay their own way, would be limited to what degree programs they can obtain financing. This may limit their ability to attend college if they do not have the grades to attend on scholarship.
+There is a clear advantage to those who come from wealthy backgrounds being able to finance their own tuition. They have the luxury of choosing any degree and attending any institution regardless of its worth in the marketplace. While an individual without the means to pay their own way, would be limited to what degree programs they can obtain financing. This may limit their ability to attend college for low earning degrees if they do not have the grades to support attending on scholarship.
 
 ## A Present Reality
 I would argue that this challenge already exists. In the scenario described above a loans is issued, and if a degree with low earnings expectations is earned the individual is forced to carry this debt burden for decades to come. From personal experience, this limits one's opportunity later on in life such as pursuing a small business or owning a home. Both of theirs opportunities require financing which in turn requires a low debt-to-income ratio.
