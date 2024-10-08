@@ -50,6 +50,7 @@ The [College Scorecard](https://collegescorecard.ed.gov/) is a great resource pu
 
 Seeing as I live in New York, let's use the University at Buffalo, the largest State University of New York, as an example. 
 
+We’ll compare two Bachelor’s Degrees from the University at Buffalo, History and Computer Science. 
 https://www.nerdwallet.com/article/loans/student-loans/student-loan-calculator
 
 Studies on Degree Earnings**: Cite statistics and studies showing the salary differentials based on degree type.
