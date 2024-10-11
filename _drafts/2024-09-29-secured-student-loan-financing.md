@@ -28,7 +28,7 @@ excerpt: In the context of trading, "Maker" and "Taker" refer to two different t
 
 # Data sources
 https://collegescorecard.ed.gov/compare/?toggle%3Dfos%26fos%3D196088.5401.3%26fos%3D196088.1107.3
-  
+
 # Introduction
 This post explores the mismatch between the cost of education and the market value of certain degrees, proposing a solution where student loans are secured based on the economic value of degrees. This post is written from the perspective that the primary role of education is to prepare individuals to succeed in the economy. I am comfortable making this assumption because if individuals are investing 10s or 100s of thousands on education it’s safe to say we should expect some financial return on that investment.
 
@@ -48,7 +48,7 @@ Before continuing with this post, I'd like to explain an existing financial fram
 # The Economic Value of a Degree
 The [College Scorecard](https://collegescorecard.ed.gov/) is a great resource published by the U.S. Department of Education. The scorecard helps prospective students find the right fit by providing data to compare colleges: their fields of study, costs, admissions, results, and more.
 
-Seeing as I live in New York, let's use the University at Buffalo, the largest State University of New York, as an example. 
+Seeing as I live in New York, let's use the University at Buffalo, the largest State University of New York, as an example. Looking at two degrees 
 
 
 Studies on Degree Earnings**: Cite statistics and studies showing the salary differentials based on degree type.
