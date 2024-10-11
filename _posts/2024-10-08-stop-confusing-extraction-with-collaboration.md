@@ -38,7 +38,7 @@ When one person consistently handles specific tasks, their peers miss out on val
 
 # How to Foster Genuine Peer Collaboration
 
-### Establish Clear Expectations and Roles
+## Establish Clear Expectations and Roles
 
 To prevent an unequal workload, it’s crucial to set clear expectations at the start of any team project. Everyone should know their responsibilities and how their contributions fit into the bigger picture. A fair division of labor is the foundation for true collaboration.
 
