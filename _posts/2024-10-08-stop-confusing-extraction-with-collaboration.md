@@ -60,7 +60,7 @@ _Actionable Tip_: Create a skill-sharing initiative where team members can teach
 
 Healthy collaboration respects personal boundaries. Whether it’s about work hours, workloads, or emotional support, open discussions about boundaries ensure that no one feels overworked or taken advantage of.
 
-_Actionable Tip_: Establish norms around after-hours communication and ensure everyone respects one another’s boundaries.
+_Actionable Tip_: Cultivate a culture where employees communicate their needs and set limits without fear of repercussions. For instance, establish norms around after-hours communication and ensure everyone respects one another’s boundaries.
 
 # Redefining Collaboration
 
