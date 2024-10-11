@@ -14,13 +14,13 @@ In an ideal workplace, collaboration among colleagues should be mutually benefic
 
 Extraction in the workplace occurs when one person or group unfairly takes value, effort, or resources from another without proper reciprocation, often disguised as collaboration. In this scenario, one party benefits disproportionately, while the other does most of the work or bears the burden with little recognition. Ultimately, extraction is exploitative, draining time, energy, or credit from one party—contrasting sharply with true collaboration, where value and responsibilities are shared equally.
 
-![[/assets/images/Extraction.jpg]]
+![Extraction Diagram]({{site.baseurl}}/assets/images/Extraction.jpg "Extraction Diagram")
 
 ## What is Collaboration?
 
 Collaboration is about working together toward a shared goal through active participation, mutual respect, and an equitable exchange of ideas and effort. In a healthy collaborative environment, everyone contributes their unique strengths while benefiting from others' input. This balance fosters innovation, enhances problem-solving, and yields stronger results by harnessing the collective strengths of the team.
 
-![[/assets/images/collaboration.jpg]]
+![Collaboration Diagram]({{site.baseurl}}/assets/images/collaboration.jpg "Collaboration Diagram")
 
 # The Impact of Peer-Level Extraction
 
