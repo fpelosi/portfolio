@@ -12,7 +12,7 @@ carousels:
       - image: /assets/images/nyc-yankee-stadium.jpeg
       - image: /assets/images/nyc-chrysler-building.jpeg
       - image: /assets/images/nyc-empire-state.jpeg
-excerpt: 1. Bryant Park 2. Yankee Stadium 3. Chrysler Building 4. Empire State Building
+excerpt:
 ---
 1. Bryant Park
 2. Yankee Stadium
