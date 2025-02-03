@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (8.0.1)
+    activesupport (7.2.2.1)
       base64
       benchmark (>= 0.3)
       bigdecimal
@@ -13,7 +13,6 @@ GEM
       minitest (>= 5.1)
       securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
-      uri (>= 0.13.1)
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
     base64 (0.2.0)
@@ -112,7 +111,6 @@ GEM
     tzinfo-data (1.2025.1)
       tzinfo (>= 1.0.0)
     unicode-display_width (2.6.0)
-    uri (1.0.2)
     wdm (0.1.1)
     webrick (1.9.1)
 
@@ -121,6 +119,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  activesupport (< 8.0.0)
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.2)
   jekyll-archives
