@@ -8,6 +8,6 @@ image: /assets/images/big-red-barn.jpeg
 carousels:
   - images:
       - image: /assets/images/big-red-barn.jpeg
-excerpt: 🅱️ig Red Barn on a Winter’s Day.
+excerpt: ☁️ All the leaves are brown and the sky is grey.
 ---
-🅱️ig Red Barn on a Winter’s Day.
+☁️ All the leaves are brown and the sky is grey.
