@@ -5,7 +5,7 @@ date: 2025-02-07
 categories:
   - photos
   - travel
-image: /assets/images/shane-smoth-and-the-saints.jpeg
+image: /assets/images/shane-smith-and-the-saints.jpeg
 carousels:
   - images:
       - image: /assets/images/shane-smith-and-the-saints.jpeg
