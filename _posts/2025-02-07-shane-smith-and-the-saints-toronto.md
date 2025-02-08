@@ -5,10 +5,10 @@ date: 2025-02-07
 categories:
   - photos
   - travel
-image: /assets/images/shane-smith-and-the-saints.jpeg
+image: /assets/images/shane-smith-and-the-saints.jpg
 carousels:
   - images:
-      - image: /assets/images/shane-smith-and-the-saints.jpeg
+      - image: /assets/images/shane-smith-and-the-saints.jpg
 excerpt: Danforth Music Hall, Toronto, Ontario
 ---
 ☁️ Smashburgers at [Matty's Patty's Burger Club](https://www.instagram.com/mattyspattysburgerclub) and a show.
